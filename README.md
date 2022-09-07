@@ -57,9 +57,7 @@
 * f) Solicitar la baja como socio.
 * g) Participar, de acuerdo con los presentes Estatutos, en los órganos de dirección de la Sociedad, siendo elector y elegible para los mismos.
 
-### Capítulo IV.
-
-#### Órganos directivos
+### Capítulo IV. Órganos directivos
 
 **Artículo 19.** El gobierno y la administración de R-Asturies estarán a cargo de los siguientes órganos colegiados:
 
