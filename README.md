@@ -4,7 +4,7 @@
 
 **Artículo 1.** El Grupo de R de Asturias (R-Asturies) es una asociación con fines científicos y sin ánimo de lucro que se acoge al amparo de la Constitución Española y a lo dispuesto en la Ley Orgánica 1/2002 de 22 de marzo, reguladora del Derecho de Asociación. Dicha Asociación se regirá por los preceptos de las citadas leyes de Asociaciones, por los presentes estatutos en cuanto no estén en contradicción con la Ley, por los acuerdos válidamente adoptados por sus órganos de Gobierno, siempre que no sean contrarios a las Leyes y/o a los Estatutos, y por las disposiciones reglamentarias que apruebe el Gobierno, que sólo tendrán carácter supletorio.
 
-**Artículo 2.** El domicilio social del Grupo de R de Asturias es: c/ Aurelio de Llano, nº4, 3ºD, 33008 Oviedo, Asturias. El traslado del domicilio social deberá ser acordado por la Asamblea General y comunicado al registro de Asociaciones.
+**Artículo 2.** El domicilio social del Grupo de R de Asturias es: Pasaje Rafael Velasco Cadenas, nº10, 3A, 33010 Oviedo, Asturias. El traslado del domicilio social deberá ser acordado por la Asamblea General y comunicado al registro de Asociaciones.
 
 **Artículo 3.** El ámbito territorial de acción será la totalidad del Estado Español.
 
@@ -180,4 +180,7 @@ Las sanciones establecidas podrán ser:
 **Artículo 51.** En caso de disolución, la Asamblea General nombrará una Comisión Liquidadora, compuesta por tres miembros extraídos de la Junta Directiva, la cual se hará cargo de los fondos que existan. Una vez satisfechas las obligaciones sociales frente a los socios y frente a terceros, el patrimonio social sobrante, si lo hubiera, será destinado a fines análogos a los propios de la Sociedad disuelta
 
 
-[Estatutos.pdf](https://github.com/grupoRasturias/estatutos/files/9505525/Estatutos.pdf)
+
+**DILIGENCIA.-** Los presentes Estatutos han quedado redactados con la inclusión de las modificaciones acordadas por la Asamblea General de la Asociación Grupo de R de Asturias, celebrada el 30 de diciembre de 2025, conforme al acuerdo adoptado en la misma. 
+
+Y para que así conste, se extiende la presente diligencia, firmando el texto íntegro de los Estatutos la Presidenta y el Secretario de la Asociación, en Oviedo, a 30 de diciembre de 2025.
